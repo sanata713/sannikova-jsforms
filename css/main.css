@@ -33,6 +33,10 @@ textarea {
 	resize: vertical;
 }
 
+.error-hide {
+    display: none;
+}
+
 h1,
 h2,
 h3,
